@@ -1,11 +1,13 @@
 ---
-sort: 3
+sort: 2
 ---
 
-# Test Documentation
+# My Blogs
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
+
+{% include list.liquid all=true %}
 ```
 
 {% include list.liquid all=true %}
